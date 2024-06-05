@@ -6,7 +6,7 @@
 Soy un desarrollador con pasión por la programación y la tecnología. Tengo experiencia en varios lenguajes de programación y disfruto creando proyectos innovadores. Estoy constantemente aprendiendo y mejorando mis habilidades.
 
 - 🌱 Actualmente estoy buscando proyectos donde poder contribuir con mis habilidades tecnológicas.
-- 👯 Estoy buscando colaborar en **Proyectos Tecnológicos** con **Stack** de **C#(ASP.NET)**,**Java(SpringBoot)** y **Python(Django)**
+- 👯 Estoy buscando colaborar en **Proyectos Tecnológicos** **FullStack** en **C#(ASP.NET)**,**Java(Spring Boot)** y **Python(Django, fastAPI)**
 - 📫 Cómo contactarme: [armandodevpy@gmail.com](mailto:armandodevpy@gmail.com)
 
 ## Habilidades
