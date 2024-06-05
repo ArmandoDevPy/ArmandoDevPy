@@ -18,15 +18,9 @@ Soy un desarrollador junior con pasión por la programación y la tecnología. T
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
-## Proyectos destacados
-- **[Nombre del Proyecto 1](https://github.com/tu-usuario/proyecto1):** Breve descripción del proyecto 1.
-- **[Nombre del Proyecto 2](https://github.com/tu-usuario/proyecto2):** Breve descripción del proyecto 2.
-- **[Nombre del Proyecto 3](https://github.com/tu-usuario/proyecto3):** Breve descripción del proyecto 3.
-
 ## Educación
-- **[Tu Universidad](https://www.tu-universidad.edu)**
-  - Licenciatura en Ciencias de la Computación
-  - Año de graduación: 202X
+- **[Universidad Privada del Norte](https://www.upn.edu)**
+  - Ingenierá de Sistema Computacionales
 
 ## Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armandoaguinagadev)
@@ -36,7 +30,6 @@ Soy un desarrollador junior con pasión por la programación y la tecnología. T
 ¡Gracias por visitar mi perfil! 🚀
 
 ## GitHub Analytics
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ArmandoDevPy&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoDevPy&layout=compact&theme=radical)
 
 
