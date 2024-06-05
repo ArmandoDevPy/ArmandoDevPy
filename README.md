@@ -35,4 +35,8 @@ Soy un desarrollador junior con pasión por la programación y la tecnología. T
 
 ¡Gracias por visitar mi perfil! 🚀
 
+## GitHub Analytics
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+
 
