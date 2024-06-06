@@ -32,7 +32,7 @@ Soy un desarrollador con pasión por la programación y la tecnología. Tengo ex
 
 
 ## Educación
-- **[Universidad Privada del Norte](https://www.upn.edu)**
+- **[Universidad Privada del Norte](https://www.upn.edu.pe)**
   - Ingenierá de Sistema Computacionales
 
 ## Contáctame
