@@ -6,7 +6,7 @@
 Soy un desarrollador con pasión por la programación y la tecnología. Tengo experiencia en varios lenguajes de programación y disfruto creando proyectos innovadores. Estoy constantemente aprendiendo y mejorando mis habilidades.
 
 - 🌱 Actualmente estoy buscando proyectos donde poder contribuir con mis habilidades tecnológicas.
-- 👯 Estoy buscando colaborar en **Proyectos Tecnológicos** **FullStack** en **C#(ASP.NET)** - **Java(Spring Boot)** - **Python(Django, fastAPI)**.
+- 👯 Estoy buscando colaborar en **Proyectos Tecnológicos** **FullStack**.
 - 📫 Cómo contactarme: [armandodevpy@gmail.com](mailto:armandodevpy@gmail.com)
 
 ## Habilidades
@@ -30,15 +30,6 @@ Soy un desarrollador con pasión por la programación y la tecnología. Tengo ex
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Mac](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)]()
 
-
-## Educación
-- **[Universidad Privada del Norte](https://www.upn.edu.pe)**
-  - Ingenierá de Sistema Computacionales
-
-## Contáctame
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armandoaguinagadev)
-
----
 
 ¡Gracias por visitar mi perfil! 🚀
 
