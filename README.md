@@ -1,15 +1,15 @@
-# ¡Hola! Soy Armando Aguinaga 👋
+# Hello! I’m Armando 👋
 
-¡Bienvenido a mi perfil de GitHub!
+Welcome to my GitHub profile!
 
-## Sobre mí
-Soy un desarrollador con pasión por la programación y la tecnología. Tengo experiencia en varios lenguajes de programación y disfruto creando proyectos innovadores. Estoy constantemente aprendiendo y mejorando mis habilidades.
+## About Me
+I’m a developer with a passion for programming and technology. I have experience in various programming languages and enjoy creating innovative projects. I’m constantly learning and improving my skills.
 
-- 🌱 Actualmente estoy buscando proyectos donde poder contribuir con mis habilidades tecnológicas.
-- 👯 Estoy buscando colaborar en **Proyectos Tecnológicos** **FullStack**.
-- 📫 Cómo contactarme: [armandodevpy@gmail.com](mailto:armandodevpy@gmail.com)
+- 🌱 Currently, I’m looking for projects where I can contribute my technological expertise.
+- 👯 I’m seeking collaboration on **FullStack Technology Projects**.
+- 📫 How to reach me: [armandodevpy@gmail.com](mailto:armandodevpy@gmail.com)
 
-## Habilidades
+## Skill
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
@@ -31,7 +31,7 @@ Soy un desarrollador con pasión por la programación y la tecnología. Tengo ex
 [![Mac](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)]()
 
 
-¡Gracias por visitar mi perfil! 🚀
+Thank you for visiting my profile! 🚀
 
 ## GitHub Analytics
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoDevPy&layout=compact&theme=radical)
