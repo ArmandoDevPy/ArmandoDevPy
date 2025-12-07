@@ -34,6 +34,7 @@ I’m a developer with a passion for programming and technology. I have experien
 Thank you for visiting my profile! 🚀
 
 ## GitHub Analytics
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoDevPy&layout=compact&theme=radical)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoDevPy&layout=compact&theme=radical)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArmandoDevPy&layout=compact&theme=radical
+)
 
 
